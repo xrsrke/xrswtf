@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^x$ x.html [NC,L]
